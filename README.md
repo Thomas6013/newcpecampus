@@ -1,7 +1,6 @@
-# newcpecampus
+# NEWCPECAMPUS WEBSITE PROJECT
 
 HERE IT IS MY SOURCE CODE OF MY WEBSITE NEWCPECAMPUS
-
 
 
 db.php // About how to connect a database with your website
