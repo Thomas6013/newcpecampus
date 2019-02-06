@@ -10,4 +10,4 @@ navbar.php // How to use the informations of your database for users
 pv.php // How to manage dynamic informations for each users  
 
 FOR ANY QUESTIONS
-PLEASE CONTACT ME !
+support@newcpecampus.fr CONTACT ME !
